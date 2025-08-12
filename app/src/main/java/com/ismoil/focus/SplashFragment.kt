@@ -26,7 +26,7 @@ class SplashFragment : Fragment() {
                     .setPopUpTo(R.id.splashFragment, true)
                     .build()
             )
-        },2000)
+        },3000)
 
         return inflater.inflate(R.layout.fragment_splash, container, false)
     }
