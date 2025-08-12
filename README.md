@@ -1,8 +1,6 @@
 # focus-app
 # 📚 Focus — Simple & Effective Study Companion / 포커스 — 쉽고 효과적인 공부 도우미
 
-![Focus App Screenshot](https://github.com/ismoil201/focus-app/blob/main/app/src/main/res/drawable/a1.png?raw=true)
-
 ## 🇬🇧 English
 **Focus** is a simple and intuitive application designed to help you concentrate while studying or working on tasks.  
 With a clean design, minimal distractions, and efficient time management tools, you can make your study sessions more productive and enjoyable.
